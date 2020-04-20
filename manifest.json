@@ -1,6 +1,6 @@
 {
     "name" : "水母说",
-    "appid" : "__UNI__FEA7A1D",
+    "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -57,7 +57,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx08e23ad5d4b78e8d",
+        "appid" : "",
         "setting" : {
             "urlCheck" : false,
             "es6" : false,
